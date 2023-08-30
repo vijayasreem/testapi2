@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gaXgGWJoVuhLzzBxc0j10FYcpKncHmLMczmagwtAHHM=",
+  "Source": "testapi2.API",
+  "BasePath": "_content/testapi2.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
